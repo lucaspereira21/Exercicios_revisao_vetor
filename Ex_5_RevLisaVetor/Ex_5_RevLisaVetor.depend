@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615340494 source:c:\users\lucas\onedrive\Área de trabalho\ex_5_revlisavetor\main.cpp
+	<iostream>
+	<time.h>
+	<cstdlib>
+
